@@ -24,5 +24,3 @@
  
 
 https://github.com/user-attachments/assets/f572de7d-1a9b-4400-a213-07549869bfec
-
-If you want to learn to build stuff like this, get my [CSS animation book here](https://www.mirayatechstore.com/l/css-animations?layout=profile) 📘
